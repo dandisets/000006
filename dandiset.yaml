@@ -65,7 +65,8 @@ identifier: DANDI:000006
 keywords: []
 license:
 - spdx:CC-BY-4.0
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000006/versions/draft/assets/
 name: Mouse anterior lateral motor cortex (ALM) in delay response task
 protocol: []
 relatedResource:
