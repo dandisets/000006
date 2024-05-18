@@ -37,7 +37,7 @@ assetsSummary:
   - Units
   - ElectrodeGroup
   - BehavioralEvents
-citation: Economo, Michael N.; Svoboda, Karel (2022) Mouse anterior lateral motor
+citation: Economo, Michael N.; Svoboda, Karel (2024) Mouse anterior lateral motor
   cortex (ALM) in delay response task (Version draft) [Data set]. DANDI archive. https://dandiarchive.org/dandiset/000006/draft
 contributor:
 - affiliation: []
@@ -75,9 +75,11 @@ relatedResource:
 - identifier: doi:10.1038/s41586-018-0642-9
   name: Distinct descending motor cortex pathways and their roles in movement
   relation: dcite:IsDescribedBy
+  repository: Nature
+  resourceType: dcite:JournalArticle
   schemaKey: Resource
   url: https://www.nature.com/articles/s41586-018-0642-9
-repository: https://dandiarchive.org/
+repository: https://dandiarchive.org
 schemaKey: Dandiset
 schemaVersion: 0.6.0
 studyTarget: []
